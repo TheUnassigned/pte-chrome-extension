@@ -8,7 +8,8 @@
         "https://mail.google.com/*",
         "https://inbox.google.com/*"
       ],
-      "js": ["inboxsdk.js","content.js"],
+      "js": ["inboxsdk.js","zepto.min.js","pte-gmail.js"],
+      "css": ["pte-gmail.css"],
       "run_at": "document_end"
     }
   ],

@@ -1,0 +1,26 @@
+#pte-modal-html {
+    width: 400px;
+    margin-left: -12px;
+}
+.pte-modal-logo {
+    margin-top: -30px;
+}
+.pte-modal-logo img {
+    width: 185px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.pte-form-row {
+    margin: 0 0 20px
+}
+.pte-radio-label {
+    margin: 0 15px 0 5px;
+}
+
+/* Override some inboxSDK styles */
+.inboxsdk__modal_buttons {
+    margin-left: -12px;
+}
+.inboxsdk__modal_buttons .inboxsdk__button {
+    margin-right: 5px !important;
+}
